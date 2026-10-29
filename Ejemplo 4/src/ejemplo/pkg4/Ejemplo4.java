@@ -49,7 +49,7 @@ public class Ejemplo4 {
         System.out.printf("Pantalla: $ %.1f\n", pantalla);
         System.out.println();
         System.out.printf("Costo base: $ %.0f\n", costoBase);
-        System.out.printf("Costo adicional del 15%: %.2f\n", costosOperacionales);
+        System.out.printf("Costo adicional del 15%%: %.2f\n", costosOperacionales);
         System.out.printf("Costo final: $ %.2f\n", costoFinal);
 
         scanner.close();
